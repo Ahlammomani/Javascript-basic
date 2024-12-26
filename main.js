@@ -1,15 +1,15 @@
-console.log(-5*3)
-console.log("javascript" + 50)
-console.log(17 % 5)
-console.log(5 % 17)
-console.log(5/10)
-console.log(4 === "4")
-console.log(4 != 5)
-console.log(7<=8)
-console.log("hello"+5)
+console.log(-5*3) //-15
+console.log("javascript" + 50) //javascript50
+console.log(17 % 5) //2
+console.log(5 % 17) //5
+console.log(5/10) //0.5
+console.log(4 === "4") //false
+console.log(4 != 5) //true
+console.log(7<=8) //true
+console.log("hello"+5) //hello5
 let x = 7;
-console.log(Math.ceil(x)- Math.floor(x))
-console.log(Math.pow(x,2))
+console.log(Math.ceil(x)- Math.floor(x)) //0
+console.log(Math.pow(x,2)) //49
 // Q2
 let usernumber = prompt("Please enter a number:");
 let number = Number (usernumber)
